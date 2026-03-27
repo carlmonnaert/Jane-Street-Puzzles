@@ -1,6 +1,6 @@
 # 🧩 Jane Street Puzzles
 
-Welcome to my repository for [Jane Street Puzzles](https://www.janestreet.com/puzzles/)! 
+Welcome to my repository for [Jane Street Puzzles](https://www.janestreet.com/puzzles/)
 
 This repo contains my solutions, thought processes, and code for the monthly puzzles published by Jane Street. I am using this space to practice algorithmic thinking, mathematics, and efficient coding.
 
