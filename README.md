@@ -21,7 +21,7 @@ My current solutions are written in **Python**.
 
 To view a specific month's solution:
 1. Navigate to the puzzle's directory: `cd 2026_03/`
-2. Open the pdf: `2026_03.pdf`
+2. Open the pdf: `report.pdf`
 3. Run the script: `python3 solution.py`
 
 Every puzzle folder contains:
