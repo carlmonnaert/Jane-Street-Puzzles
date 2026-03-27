@@ -10,7 +10,7 @@ This repo contains my solutions, thought processes, and code for the monthly puz
 
 | Year | Month | Puzzle Name | Status | Solution/Code | Tags/Concepts |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| 2026 | March | *Planetary Parade* | ✅ Solved | [pdf solution](./2026_03/report.pdf) | *Probability* |
+| 2026 | March | *Planetary Parade* | ✅ Solved | [pdf solution](./2026_03/report.pdf) | *Probability/ Geometry* |
 
 *(Statuses: ✅ Solved | 🚧 In Progress | ❌ Unsolved)*
 
