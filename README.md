@@ -10,7 +10,7 @@ This repo contains my solutions, thought processes, and code for the monthly puz
 
 | Year | Month | Puzzle Name | Status | Solution/Code | Tags/Concepts |
 | :--- | :--- | :--- | :---: | :--- | :--- |
-| 2026 | March | *Planetary Parade* | ✅ Solved | [pdf solution](./2026_03/report.pdf) | *Probability/ Geometry* |
+| 2026 | March | *Planetary Parade* | ✅ Solved | [pdf solution](./2026_03_planetary_parade/report.pdf) | *Probability/ Geometry* |
 
 *(Statuses: ✅ Solved | 🚧 In Progress | ❌ Unsolved)*
 
@@ -20,13 +20,12 @@ This repo contains my solutions, thought processes, and code for the monthly puz
 My current solutions are written in **Python**. 
 
 To view a specific month's solution:
-1. Navigate to the puzzle's directory: `cd 2026_03/`
+1. Navigate to the puzzle's directory: `cd year_month_title/`
 2. Open the pdf: `report.pdf`
 3. Run the script: `python3 solution.py`
 
-Every puzzle folder contains:
-* `solution.py` - The code used to arrive at the answer.
+Most puzzle folder contains:
 * `report.pdf` - A breakdown of the math, logic, and optimization steps I took to get there.
-
+* `solution.py` - The code used to arrive at the answer/check the theoretical results with simulations.
 ---
 > **Note:** I wait until after the official Jane Street leaderboard closes for a given month before pushing any final solutions here to respect the spirit of the competition.
