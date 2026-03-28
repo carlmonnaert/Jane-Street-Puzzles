@@ -11,6 +11,7 @@ This repo contains my solutions, thought processes, and code for the monthly puz
 | Year | Month | Puzzle Name | Status | Solution/Code | Tags/Concepts |
 | :--- | :--- | :--- | :---: | :--- | :--- |
 | 2026 | March | *Planetary Parade* | ✅ Solved | [pdf solution](./2026_03_planetary_parade/report.pdf) | *Probability/ Geometry* |
+| 2025 | December | *Robot Javelin* | ❌ Unsolved | [pdf solution](./2025_12_planetary_parade/report.pdf) | *Probability* |
 
 *(Statuses: ✅ Solved | 🚧 In Progress | ❌ Unsolved)*
 
