@@ -13,6 +13,7 @@ This repo contains my solutions, thought processes, and code for the monthly puz
 | 2026 | March | *Planetary Parade* | ✅ Solved | [pdf solution](./2026_03_planetary_parade/report.pdf) | *Probability/ Geometry* |
 | 2025 | December | *Robot Javelin* | ❌ Unsolved | [pdf solution](./2025_12_robot_javelin/report.pdf) | *Probability* |
 | 2025 | October | *Robot Baseball* | ❌ Unsolved | [pdf solution](./2025_10_robot_baseball/report.pdf) | *Probability* |
+| 2025 | August | *Dogs Playing Poker* | ❌ Unsolved | [pdf solution](./2025_10_dogs_playing_poker/report.pdf) | *Probability* |
 
 
 *(Statuses: ✅ Solved | 🚧 In Progress | ❌ Unsolved)*
